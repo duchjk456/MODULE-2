@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3557d172-a1c1-4753-a71e-d5135f318cab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1iVSd3kxqWck0wRWoBCY7zqiIX7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration name="bai1.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/MODULE-2/MD2_4/bai1.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MD2_5/TH1/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="JavaScript Debug.bai1.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3557d172-a1c1-4753-a71e-d5135f318cab" name="Default Changelist" comment="" />
+      <created>1601991349364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601991349364</updated>
+      <workItem from="1601991350407" duration="2886000" />
+      <workItem from="1602032207296" duration="19024000" />
+      <workItem from="1602074095110" duration="1064000" />
+      <workItem from="1602137438872" duration="13004000" />
+      <workItem from="1602161606474" duration="2900000" />
+      <workItem from="1602205208869" duration="9138000" />
+      <workItem from="1602231249789" duration="5715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="513" y="289" width="402" height="227" key="#Chrome_Settings" timestamp="1602054238703">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="513" y="289" width="402" height="227" key="#Chrome_Settings/72.27.1294.741@72.27.1294.741" timestamp="1602054238703" />
+    <state x="348" y="79" width="732" height="644" key="#Inspections" timestamp="1602227142207">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="348" y="79" width="732" height="644" key="#Inspections/72.27.1294.741@72.27.1294.741" timestamp="1602227142207" />
+    <state x="435" y="199" width="557" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602140625310">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="435" y="199" width="557" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.741@72.27.1294.741" timestamp="1602140625310" />
+    <state x="510" y="116" width="451" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1602238132367">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="510" y="116" width="451" height="576" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1602238132367" />
+    <state x="502" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602228690059">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="502" y="157" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1602228690059" />
+    <state width="1248" height="215" key="GridCell.Tab.0.bottom" timestamp="1602230353157">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1602230353157" />
+    <state width="1248" height="215" key="GridCell.Tab.0.center" timestamp="1602230353156">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1602230353156" />
+    <state width="1248" height="215" key="GridCell.Tab.0.left" timestamp="1602230353156">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1602230353156" />
+    <state width="1248" height="215" key="GridCell.Tab.0.right" timestamp="1602230353157">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1602230353157" />
+    <state width="1248" height="215" key="GridCell.Tab.1.bottom" timestamp="1602230353159">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.1.bottom/72.27.1294.741@72.27.1294.741" timestamp="1602230353159" />
+    <state width="1248" height="215" key="GridCell.Tab.1.center" timestamp="1602230353158">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.1.center/72.27.1294.741@72.27.1294.741" timestamp="1602230353158" />
+    <state width="1248" height="215" key="GridCell.Tab.1.left" timestamp="1602230353158">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.1.left/72.27.1294.741@72.27.1294.741" timestamp="1602230353158" />
+    <state width="1248" height="215" key="GridCell.Tab.1.right" timestamp="1602230353159">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.1.right/72.27.1294.741@72.27.1294.741" timestamp="1602230353159" />
+    <state width="1248" height="215" key="GridCell.Tab.2.bottom" timestamp="1602230353161">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.2.bottom/72.27.1294.741@72.27.1294.741" timestamp="1602230353161" />
+    <state width="1248" height="215" key="GridCell.Tab.2.center" timestamp="1602230353160">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.2.center/72.27.1294.741@72.27.1294.741" timestamp="1602230353160" />
+    <state width="1248" height="215" key="GridCell.Tab.2.left" timestamp="1602230353160">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.2.left/72.27.1294.741@72.27.1294.741" timestamp="1602230353160" />
+    <state width="1248" height="215" key="GridCell.Tab.2.right" timestamp="1602230353160">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="215" key="GridCell.Tab.2.right/72.27.1294.741@72.27.1294.741" timestamp="1602230353160" />
+    <state x="493" y="117" width="673" height="582" key="NewPhpClassDialog" timestamp="1602236156146">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="493" y="117" width="673" height="582" key="NewPhpClassDialog/72.27.1294.741@72.27.1294.741" timestamp="1602236156146" />
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1602238417156">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1602238417156" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1602229770886">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1602229770886" />
+    <state x="245" y="109" width="938" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602225525274">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="245" y="109" width="938" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/72.27.1294.741@72.27.1294.741" timestamp="1602225525274" />
+    <state x="491" y="204" width="446" height="393" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1602227127655">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="491" y="204" width="446" height="393" key="com.jetbrains.php.test.PhpNewTestDialog/72.27.1294.741@72.27.1294.741" timestamp="1602227127655" />
+    <state x="593" y="253" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1602229017488">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="593" y="253" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/72.27.1294.741@72.27.1294.741" timestamp="1602229017488" />
+    <state x="383" y="174" key="run.anything.popup" timestamp="1602228351393">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="383" y="174" key="run.anything.popup/72.27.1294.741@72.27.1294.741" timestamp="1602228351393" />
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602226066341">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1602226066341" />
+  </component>
+</project>
