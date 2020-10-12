@@ -47,9 +47,10 @@
     $num1=$_REQUEST['num1'];
     $num2=$_REQUEST['num2'];
     $mark=$_REQUEST['cal'];
-    $newCal=new Calculator($num1,$num2,$mark);
+    $newCal=new Calculator($num1,$mark,$num2);
     echo $newCal;
-
+//    echo "<pre>";
+//    print_r($newCal);
 
 } ?>
 </body>

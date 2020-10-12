@@ -13,7 +13,7 @@ class Calculator
      * @param $num2
      * @param $mark
      */
-    public function __construct($num1, $num2,$mark)
+    public function __construct($num1, $mark, $num2)
     {
         $this->num1 = $num1;
         $this->num2 = $num2;
@@ -53,12 +53,28 @@ class Calculator
     }
 
     public function calculate($num1,$mark,$num2)
-    {
-        return eval($num1+$mark+$num2);
+    {$a=0;
+        switch ($mark){
+            case('+'): $a=$num1+$num2;
+            break;
+            case ('-'): $a= $num1-$num2;
+            break;
+            case ('*'): $a= $num1*$num2;
+            break;
+            case ('/'): $a=$num1/$num2;
+            break;
+        }
+        return $a;
     }
 
     public function __toString()
-    {
-        return $this->num1.$this->mark.$this->num2."=".$this->calculate($this->num1,$this->mark,$this->num2);
-    }
+    { if ($this->num2==0 && $this->mark=='/'){
+        return "<h3>Can't be division for 0</h3>";
+    }elseif ($this->num1==null||$this->num2==null){
+        return '';
+    }else
+        return "<h3>".$this->num1.$this->mark.$this->num2."=".$this->calculate($this->num1,$this->mark,$this->num2)."</h3>";
+        }
+
+
 }
