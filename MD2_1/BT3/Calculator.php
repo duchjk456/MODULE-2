@@ -70,7 +70,7 @@ class Calculator
     public function __toString()
     { if ($this->num2==0 && $this->mark=='/'){
         return "<h3>Can't be division for 0</h3>";
-    }elseif ($this->num1==null||$this->num2==null){
+    }elseif ($this->num2==0 && $this->mark=='/'){
         return '';
     }else
         return "<h3>".$this->num1.$this->mark.$this->num2."=".$this->calculate($this->num1,$this->mark,$this->num2)."</h3>";

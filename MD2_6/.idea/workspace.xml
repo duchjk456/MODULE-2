@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0263220e-b266-43ab-acd4-446537d837f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyen_tap_week1/BT1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Luyen_tap_week1/BT1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyen_tap_week1/BT2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Luyen_tap_week1/BT2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyen_tap_week1/BT3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Luyen_tap_week1/BT3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_1/BT1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_1/BT1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_1/BT2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_1/BT2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_1/BT3/Calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_1/BT3/Calculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_1/BT3/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_1/BT3/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_1/TH3/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_1/TH3/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_1/TH4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_1/TH4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_5/BT1/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_5/BT1/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_5/BT1/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_5/BT1/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_5/BT1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_5/BT1/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_5/BT2/Point2D.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_5/BT2/Point2D.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_5/BT2/Point3D.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_5/BT2/Point3D.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_5/BT2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_5/BT2/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_5/BT2/index3d.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_5/BT2/index3d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_5/BT3/MovablePoint.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_5/BT3/MovablePoint.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_5/BT3/Point.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_5/BT3/Point.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2_5/BT3/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2_5/BT3/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1inslF8td9gXj6VTOIJfc6tUQkx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0263220e-b266-43ab-acd4-446537d837f8" name="Default Changelist" comment="" />
+      <created>1602554839685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602554839685</updated>
+      <workItem from="1602554840697" duration="500000" />
+      <workItem from="1602555358124" duration="5540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="116" width="441" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1602563062096">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="527" y="116" width="441" height="569" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1602563062096" />
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602570910273">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1602570910273" />
+    <state x="493" y="117" width="441" height="596" key="NewPhpClassDialog" timestamp="1602563118044">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="493" y="117" width="441" height="596" key="NewPhpClassDialog/72.27.1294.741@72.27.1294.741" timestamp="1602563118044" />
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1602563801692">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1602563801692" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1602555443522">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1602555443522" />
+  </component>
+</project>
